@@ -2,7 +2,7 @@
 - Team Name : `GIGA Mak-hi-jan-ni`
 - Date of Festival : 12/03/20<br/><br/>
 
-**2020 graduation Piece of Pusan National University (prize-winning project)**
+**2020 graduation Piece (prize-winning project)**
 - Subject : Developing model which improves performance better than previous researches using RNA Protein Interaction(RPI) Database datasets.
 - Team No. : 6
 - Team Name : `Could we graduate ..?`
